@@ -1,1 +1,2 @@
-# Proiect_TW
+Nume: Barbu Alexandru-Marian
+Grupa: 144
